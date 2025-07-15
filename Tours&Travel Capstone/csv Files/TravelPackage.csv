@@ -1,0 +1,21 @@
+Name,Duration_in_Days__c,Places_Covered__c,Price_Per_Person__c,Country__c,Availability_Status__c
+India Tour Package 1,5,"City A, Landmark 1",527.23,India,Active
+Philippines Tour Package 2,3,"City B, Temple 2",422.77,Philippines,Active
+Saudi Arabia Tour Package 3,4,"Mountain Y, Temple 2",678.48,Saudi Arabia,Active
+USA Tour Package 4,13,"City B, Landmark 1",202.55,USA,Active
+Switzerland Tour Package 5,9,"Beach X, Landmark 1",700.77,Switzerland,Active
+India Tour Package 6,3,"City A, Landmark 1",573.14,India,Active
+Philippines Tour Package 7,3,"Mountain Y, Temple 2",543.14,Philippines,Active
+Saudi Arabia Tour Package 8,5,"Beach X, Landmark 1",1004.41,Saudi Arabia,Active
+USA Tour Package 9,14,"Beach X, Landmark 1",600.88,USA,Active
+Switzerland Tour Package 10,11,"City B, Landmark 1",448.68,Switzerland,Active
+India Tour Package 11,7,"Mountain Y, Temple 2",315.94,India,Active
+Philippines Tour Package 12,11,"Beach X, Landmark 1",906.43,Philippines,Active
+Saudi Arabia Tour Package 13,8,"Mountain Y, Landmark 1",153.04,Saudi Arabia,Active
+USA Tour Package 14,3,"City A, Landmark 1",320.94,USA,Active
+Switzerland Tour Package 15,11,"City B, Landmark 1",815.02,Switzerland,Active
+India Tour Package 16,5,"Beach X, Landmark 1",521.39,India,Active
+Philippines Tour Package 17,14,"Beach X, Temple 2",683.88,Philippines,Active
+Saudi Arabia Tour Package 18,12,"City B, Temple 2",558.24,Saudi Arabia,Active
+USA Tour Package 19,8,"City A, Landmark 1",1162.03,USA,Active
+Switzerland Tour Package 20,6,"City A, Temple 2",1136.14,Switzerland,Active
